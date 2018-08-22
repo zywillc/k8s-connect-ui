@@ -1,7 +1,7 @@
 ---
 matrix:
   include:
-    - APP: my-app
+    - APP: kafka-connect-ui
       NAMESPACE: datawarehouse
 
 pipeline:
